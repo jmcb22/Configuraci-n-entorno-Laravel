@@ -1,0 +1,10 @@
+extención VS Code -laravel Snippets ->Winnie Lin
+
+composer require laravel/ui
+php artisan ui bootstrap
+npm install
+npm run dev
+
+https://github.com/awais-vteams/laravel-crud-generator
+	composer require ibex/crud-generator --dev ... para crear los crud
+	php artisan vendor:publish --tag=crud  ... para poder usar herramienta
